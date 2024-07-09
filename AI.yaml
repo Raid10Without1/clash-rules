@@ -1,16 +1,7 @@
 payload:
-  - "browser-intake-datadoghq.com"
-  - "chat.openai.com.cdn.cloudflare.net"
-  - "ai.com"
-  - "gemini.google.com"
-  - "openai-api.arkoselabs.com"
-  - "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net"
-  - "openaicomproductionae4b.blob.core.windows.net"
-  - "production-openaicom-storage.azureedge.net"
-  - "algolia.net"
-  - "api.statsig.com"
+# OpenAI
   - "+.chatgpt.com"
-  - "chatgpt.livekit.cloud"
   - "+.openai.com"
-  - "openaiapi-site.azureedge.net"
-  - "openaicom.imgix.net"
+# Google
+  - "gemini.google.com"
+  - "ai.com" # Just Gemini

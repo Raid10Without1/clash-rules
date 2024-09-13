@@ -1,6 +1,8 @@
 payload:
 # Some CN Sites
   - "+.gitcode.com"
+  - "+.gitcode.net"
+  - "+.gitcode.csdn.net"
 # Stupid Wheel
   - "+.dafahao.org"
   - "+.minghui.org"

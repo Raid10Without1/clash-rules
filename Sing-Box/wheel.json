@@ -1,0 +1,32 @@
+{
+    "version": 2,
+    "rules":
+    [
+        {
+            "domain_suffix":
+            [
+                "dafahao.org",
+                "minghui.org",
+                "dongtaiwang.org",
+                "epochtimes.org",
+                "ntdtv.org",
+                "falundafa.org",
+                "wujieliulan.org",
+                "dafahao.com",
+                "minghui.com",
+                "dongtaiwang.com",
+                "epochtimes.com",
+                "ntdtv.com",
+                "falundafa.com",
+                "wujieliulan.com",
+                "dafahao.net",
+                "minghui.net",
+                "dongtaiwang.net",
+                "epochtimes.net",
+                "ntdtv.net",
+                "falundafa.net",
+                "wujieliulan.net"
+            ]
+        }
+    ]
+}

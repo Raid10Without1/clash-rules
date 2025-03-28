@@ -1,9 +1,11 @@
+#clash
 payload:
 # OpenAI
   - "+.chatgpt.com"
   - "+.openai.com"
   - "cdn.oaistatic.com"
   - "files.oaiusercontent.com"
+  - "auth.openai.com"
 # Google
   - "gemini.google.com"
   - "ai.com" # Just Gemini
